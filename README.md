@@ -1,2 +1,4 @@
 # aulaprogramacao1
-meu primeiro repositorio
+## prof. Pablo Ramon
+### UC - programação de soluções computacionais
+Meu primeiro repositorio
